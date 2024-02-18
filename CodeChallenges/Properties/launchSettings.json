@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodeChallenges": {
+      "commandName": "Project",
+      "commandLineArgs": "-l"
+    }
+  }
+}
